@@ -6,7 +6,7 @@ A 3D tilt-maze game made in Unity
 
 
 ## 👥 Team Members 
-- Wannida Polchan (Ploy)
+- Wannida Polchan
 - Christian Manalo
 - Rachel Rogers
 - Marie-Jhayne Jacobo
