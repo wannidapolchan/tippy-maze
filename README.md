@@ -6,10 +6,10 @@ A 3D tilt-maze game made in Unity
 
 
 ## Team Members 
-- Wannida Polchan
-- Christian Manalo
-- Rachel Rogers
-- Marie-Jhayne Jacobo
+- Wannida Polchan - wannidapolchan
+- Christian Manalo - 
+- Rachel Rogers - rachelrgs
+- Marie-Jhayne Jacobo - mayroso4517
 
 ## Roles
 Core Gameplay: Wannida Polchan 
