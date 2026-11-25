@@ -10,6 +10,19 @@ A 3D tilt-maze game made in Unity
 - Christian Manalo
 - Rachel Rogers
 - Marie-Jhayne Jacobo
+
+## Roles
+Core Gameplay: Wannida Polchan 
+- Board tilt controls, ball physics, jump, falling into holes and respawning, reaching the goal
+
+Level Design: Rachel Rogers
+- Maze builder script, designing the 3 levels, moving obstacles, balancing difficulty
+
+Art, Lighting and Animation: Christian Manalo
+- Materials and textures, lighting setup, obstacle and goal animations, visual effects
+
+Camera, UI and Sound: Marie-Jhayne Jacobo
+- Camera sweep and follow, menus, HUD, sound effects
   
 ## About the Game
  
