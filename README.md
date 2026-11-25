@@ -7,7 +7,7 @@ A 3D tilt-maze game made in Unity
 
 ## Team Members 
 - Wannida Polchan - wannidapolchan
-- Christian Manalo - 
+- Christian Manalo - covexts
 - Rachel Rogers - rachelrgs
 - Marie-Jhayne Jacobo - mayroso4517
 
