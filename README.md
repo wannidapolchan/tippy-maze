@@ -32,7 +32,7 @@ The goal is to guide the ball through each maze to the exit without falling into
 
 ## Current Target
  
-- Tilt the board with a joystick or keyboard to roll the ball
+- Tilt the board with a joystick or keyboard to roll the ball throughout the maze while avoiding obstacles
 - Holes in the floor that send the ball back to the start
 - Moving obstacles that patrol back and forth through the maze
 - Jump button to hop over hazards
